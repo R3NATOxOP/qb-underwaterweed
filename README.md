@@ -2,7 +2,7 @@
 
 A underwater drug Script for your server!
 
-preview : **Soon**
+Preview : **Soon**
 
 Converted from qb-weedpicking
 
