@@ -2,6 +2,8 @@
 
 A underwater drug Script for your server!
 
+preview : **Soon**
+
 Converted from qb-weedpicking
 
 Real Script - https://github.com/MrEvilGamer/qb-weedpicking
