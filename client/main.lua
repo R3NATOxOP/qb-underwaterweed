@@ -31,6 +31,7 @@ function DrawText2D(x, y, text)
 			SetTextDropShadow()
 			SetTextOutline()
 			SetTextEntry("STRING")
+			AddTextComponentString("~w~Press ~b~[E]~w~ to pickup Weed")
 			DrawText(x, y)
 
 end
